@@ -1,0 +1,7 @@
+streamlit
+yt-dlp
+faster-whisper
+sentence-transformers
+chromadb
+google-genai
+python-dotenv

@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What mindset shift do they describe as key to enduring hardship?",
+    "expected_answer_contains": "control your mind",
+    "expected_timestamp_range": [0, 75]
+  },
+  {
+    "question": "How much weight did the speaker lose?",
+    "expected_answer_contains": "100",
+    "expected_timestamp_range": [280, 357]
+  },
+  {
+    "question": "What stock market advice do they give?",
+    "expected_answer_contains": "not covered",
+    "expected_timestamp_range": null
+  }
+]
